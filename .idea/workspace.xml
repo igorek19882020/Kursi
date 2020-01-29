@@ -107,7 +107,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580323371302" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580324265023" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -203,7 +203,7 @@
       <workItem from="1580142865910" duration="1299000" />
       <workItem from="1580144288121" duration="5081000" />
       <workItem from="1580312260598" duration="8906000" />
-      <workItem from="1580321746349" duration="1531000" />
+      <workItem from="1580321746349" duration="2385000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1580316175871</created>
@@ -233,11 +233,18 @@
       <option name="project" value="LOCAL" />
       <updated>1580319016020</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson2">
+      <created>1580323446080</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580323446080</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16817000" />
+    <option name="totallyTimeSpent" value="17671000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -288,7 +295,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
     <MESSAGE value="1111" />
-    <option name="LAST_COMMIT_MESSAGE" value="1111" />
+    <MESSAGE value="lesson2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
