@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e1de9dd-4ae0-431c-8b79-1205193b58a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,20 +35,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/Task.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -72,11 +73,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson1/FirstMain.java" />
         <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson2/SecondLesson.java" />
         <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson2/Task.java" />
         <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/Task.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -148,7 +149,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580744886358" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580745108456" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -259,7 +260,7 @@
       <workItem from="1580144288121" duration="5081000" />
       <workItem from="1580312260598" duration="8906000" />
       <workItem from="1580321746349" duration="2695000" />
-      <workItem from="1580743241062" duration="1528000" />
+      <workItem from="1580743241062" duration="2011000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1580316175871</created>
@@ -317,11 +318,25 @@
       <option name="project" value="LOCAL" />
       <updated>1580744593017</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lesson3">
+      <created>1580744875049</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580744875049</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lesson3">
+      <created>1580745034903</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580745034903</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19509000" />
+    <option name="totallyTimeSpent" value="19992000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -414,7 +429,8 @@
     <MESSAGE value="111" />
     <MESSAGE value="1111" />
     <MESSAGE value="lesson2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson2" />
+    <MESSAGE value="lesson3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
@@ -436,13 +452,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson2/Task.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -459,8 +468,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/Task.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
