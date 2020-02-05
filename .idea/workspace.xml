@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3e1de9dd-4ae0-431c-8b79-1205193b58a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/Array.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,37 +17,50 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/Task.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/Array.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="51">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/PrintfExample.java">
+        <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="221">
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+              <folding>
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/PersonExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Sex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Country.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -59,6 +71,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -80,6 +93,11 @@
         <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/Task.java" />
         <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/Array.java" />
         <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/PrintfExample.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/cl.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Country.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Sex.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/PersonExample.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Person.java" />
       </list>
     </option>
   </component>
@@ -99,7 +117,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,18 +167,19 @@
               <item name="belhard" type="462c0819:PsiDirectoryNode" />
               <item name="G20" type="462c0819:PsiDirectoryNode" />
               <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580752864215" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580919971582" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -172,6 +190,9 @@
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/igorek19882020" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="by.belhard.G20.lessons.lesson4" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -186,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Array">
+  <component name="RunManager" selected="Application.PrintfExample">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.belhard.G20.lessons.lesson3.Array" />
       <module name="G20Igor" />
@@ -200,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.belhard.G20.lessons.lesson1.FirstMain" />
+    <configuration name="PrintfExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.belhard.G20.lessons.lesson3.PrintfExample" />
       <module name="G20Igor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.belhard.G20.lessons.lesson1.*" />
+          <option name="PATTERN" value="by.belhard.G20.lessons.lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintfExample" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.Task (1)" />
         <item itemvalue="Application.Task" />
         <item itemvalue="Application.SecondLesson" />
-        <item itemvalue="Application.FirstMain" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +297,8 @@
       <workItem from="1580144288121" duration="5081000" />
       <workItem from="1580312260598" duration="8906000" />
       <workItem from="1580321746349" duration="2695000" />
-      <workItem from="1580743241062" duration="9188000" />
+      <workItem from="1580743241062" duration="11044000" />
+      <workItem from="1580916259087" duration="3445000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1580316175871</created>
@@ -404,11 +426,32 @@
       <option name="project" value="LOCAL" />
       <updated>1580750253697</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="lesson3">
+      <created>1580752910187</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1580752910187</updated>
+    </task>
+    <task id="LOCAL-00020" summary="lesson3">
+      <created>1580753272601</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1580753272601</updated>
+    </task>
+    <task id="LOCAL-00021" summary="lesson3">
+      <created>1580754294930</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1580754294930</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27169000" />
+    <option name="totallyTimeSpent" value="32470000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -423,8 +466,8 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49323016" visible="true" weight="0.26349613" />
-      <window_info id="Structure" order="1" sideWeight="0.50676984" side_tool="true" visible="true" weight="0.26349613" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49394348" visible="true" weight="0.2667095" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.50605655" side_tool="true" visible="true" weight="0.2667095" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -432,7 +475,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.502008" side_tool="true" weight="0.2570694" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30417228" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30417228" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -524,13 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson2/SecondLesson.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -568,8 +604,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/PrintfExample.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/cl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Sex.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/PersonExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
