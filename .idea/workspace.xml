@@ -3,6 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="3e1de9dd-4ae0-431c-8b79-1205193b58a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/G20Igor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/G20Igor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson1/FirstMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson2/SecondLesson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson2/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/PrintfExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/PersonExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Sex.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,61 +22,93 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="igor@localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="igor@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="igor@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="igor: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="igor@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="igor: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="employees: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="G20Igor" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-              <folding>
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/PersonExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Sex.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Country.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="vertical" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="153">
+                  <caret line="9" selection-start-line="9" selection-end-line="9" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson11/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="221">
+                  <caret line="13" selection-start-line="13" selection-end-line="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson11/DBManager.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="77">
+                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="das://7261272b-b44e-44fe-8b82-439c2bf99514/schema/igor/table/employees">
+              <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+                <state>
+                  <filtering enabled="true" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -94,16 +137,42 @@
         <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/Array.java" />
         <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/PrintfExample.java" />
         <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/cl.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Country.java" />
         <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Sex.java" />
-        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/PersonExample.java" />
         <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Person.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Country.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson5/Worker.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson5/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons6/Manager.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons6/Worker.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons6/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons6/Person.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/PersonExample.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson5/Person.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons7/Master.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons7/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons7/Maint.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons7/Ex.java" />
+        <option value="$PROJECT_DIR$/src/by/input.tt" />
+        <option value="$PROJECT_DIR$/input.tt" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons8/DogIsNotReadyException.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons8/Dog.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons8/New.java" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson11/Main.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ee76b934-be98-4955-b9ab-c1fb00a954c9/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/7261272b-b44e-44fe-8b82-439c2bf99514/console.sql" />
+        <option value="$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson11/DBManager.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="86" />
-    <option name="y" value="170" />
+    <option name="x" value="34" />
+    <option name="y" value="5" />
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
@@ -122,52 +191,18 @@
           <expand>
             <path>
               <item name="G20Igor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="G20Igor" type="462c0819:PsiDirectoryNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
             <path>
               <item name="G20Igor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="G20Igor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
             <path>
               <item name="G20Igor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="G20Igor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="by" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="G20Igor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="G20Igor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="by" type="462c0819:PsiDirectoryNode" />
-              <item name="belhard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="G20Igor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="G20Igor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="by" type="462c0819:PsiDirectoryNode" />
-              <item name="belhard" type="462c0819:PsiDirectoryNode" />
-              <item name="G20" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="G20Igor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="G20Igor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="by" type="462c0819:PsiDirectoryNode" />
-              <item name="belhard" type="462c0819:PsiDirectoryNode" />
-              <item name="G20" type="462c0819:PsiDirectoryNode" />
-              <item name="lessons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="G20Igor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="G20Igor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="by" type="462c0819:PsiDirectoryNode" />
-              <item name="belhard" type="462c0819:PsiDirectoryNode" />
-              <item name="G20" type="462c0819:PsiDirectoryNode" />
-              <item name="lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson4" type="462c0819:PsiDirectoryNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="7261272b-b44e-44fe-8b82-439c2bf99514" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
             </path>
           </expand>
           <select />
@@ -177,19 +212,28 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580919971582" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583173577304" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="SQL Dialects" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/igorek19882020" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\IdeaProjects\G20Igor" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="by.belhard.G20.lessons.lesson4" />
@@ -207,13 +251,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintfExample">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.belhard.G20.lessons.lesson3.Array" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.belhard.G20.lessons.lessons8.Dog" />
       <module name="G20Igor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.belhard.G20.lessons.lesson3.*" />
+          <option name="PATTERN" value="by.belhard.G20.lessons.lessons8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintfExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.belhard.G20.lessons.lesson3.PrintfExample" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.belhard.G20.lessons.lesson11.Main" />
       <module name="G20Igor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.belhard.G20.lessons.lesson3.*" />
+          <option name="PATTERN" value="by.belhard.G20.lessons.lesson11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,12 +278,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.belhard.G20.lessons.lesson2.SecondLesson" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.belhard.G20.lessons.lesson5.Main" />
       <module name="G20Igor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.belhard.G20.lessons.lesson2.*" />
+          <option name="PATTERN" value="by.belhard.G20.lessons.lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,12 +291,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.belhard.G20.lessons.lesson3.Task" />
+    <configuration name="Maint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.belhard.G20.lessons.lessons7.Maint" />
       <module name="G20Igor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.belhard.G20.lessons.lesson3.*" />
+          <option name="PATTERN" value="by.belhard.G20.lessons.lessons7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,12 +304,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.belhard.G20.lessons.lesson2.Task" />
+    <configuration name="New" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.belhard.G20.lessons.lessons8.New" />
       <module name="G20Igor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.belhard.G20.lessons.lesson2.*" />
+          <option name="PATTERN" value="by.belhard.G20.lessons.lessons8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,11 +319,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintfExample" />
-        <item itemvalue="Application.Array" />
-        <item itemvalue="Application.Task (1)" />
-        <item itemvalue="Application.Task" />
-        <item itemvalue="Application.SecondLesson" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.New" />
+        <item itemvalue="Application.Dog" />
+        <item itemvalue="Application.Maint" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +342,14 @@
       <workItem from="1580312260598" duration="8906000" />
       <workItem from="1580321746349" duration="2695000" />
       <workItem from="1580743241062" duration="11044000" />
-      <workItem from="1580916259087" duration="3445000" />
+      <workItem from="1580916259087" duration="7705000" />
+      <workItem from="1581347669213" duration="4085000" />
+      <workItem from="1581521555408" duration="2991000" />
+      <workItem from="1581952758146" duration="6669000" />
+      <workItem from="1582125681405" duration="8267000" />
+      <workItem from="1582557620358" duration="690000" />
+      <workItem from="1583163640394" duration="9071000" />
+      <workItem from="1583335607807" duration="267000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1580316175871</created>
@@ -447,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1580754294930</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="lesson4">
+      <created>1580920927761</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1580920927761</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32470000" />
+    <option name="totallyTimeSpent" value="68770000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -466,26 +524,27 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49394348" visible="true" weight="0.2667095" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.50605655" side_tool="true" visible="true" weight="0.2667095" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8493976" visible="true" weight="0.18766066" />
+      <window_info id="Structure" order="1" sideWeight="0.15060242" side_tool="true" visible="true" weight="0.18766066" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.502008" side_tool="true" weight="0.2570694" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30417228" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32839838" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32974428" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32974428" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32974428" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.27994618" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="13" visible="true" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -494,7 +553,7 @@
       <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Database" order="8" visible="true" weight="0.26285347" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,18 +604,13 @@
     <MESSAGE value="1111" />
     <MESSAGE value="lesson2" />
     <MESSAGE value="lesson3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson3" />
+    <MESSAGE value="lesson4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson1/lesson1.java" />
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson1/FirstMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson1/FirstMain.java" />
     <entry file="https://github.com/igorek19882020">
       <provider selected="true" editor-type-id="httpFileEditor" />
     </entry>
@@ -567,20 +621,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson2/SecondLesson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson2/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson2/SecondLesson.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson2/Task.java" />
     <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -588,70 +630,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/Task.java">
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/Task.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/Array.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/PrintfExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/cl.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Sex.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Country.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson5/Worker.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson5/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons6/Worker.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons6/Manager.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/PersonExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons6/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons6/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson5/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons7/Ex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state relative-caret-position="68">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/Array.java">
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons7/Maint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson3/PrintfExample.java">
+    <entry file="file://$PROJECT_DIR$/src/by/input.tt" />
+    <entry file="file://$PROJECT_DIR$/input.tt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/cl.java">
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons8/Dog.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons8/DogIsNotReadyException.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lessons8/New.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ee76b934-be98-4955-b9ab-c1fb00a954c9/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7261272b-b44e-44fe-8b82-439c2bf99514/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="51">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Country.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Sex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/PersonExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson4/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson11/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding>
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-          </folding>
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://7261272b-b44e-44fe-8b82-439c2bf99514/schema/igor/table/employees">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/belhard/G20/lessons/lesson11/DBManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -720,6 +773,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>mysql:mysql-connector-java:8.0.19</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
